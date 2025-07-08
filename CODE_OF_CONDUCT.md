@@ -1,7 +1,7 @@
 <!--coc-start-->
 This project is following the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md). 
 
-# KubeStellar Community Code of Conduct
+# Klaire Community Code of Conduct
 
 As contributors, maintainers, and participants in the CNCF community, and in the interest of fostering
 an open and welcoming community, we pledge to respect all people who participate or contribute
